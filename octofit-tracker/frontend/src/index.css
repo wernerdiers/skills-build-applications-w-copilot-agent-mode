@@ -95,6 +95,9 @@ p {
   margin: 0;
 }
 
+html { background: #f4f5ef; }
+body { min-width: 320px; }
+
 code,
 .counter {
   font-family: var(--mono);
